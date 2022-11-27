@@ -10,7 +10,7 @@ import {
   World,
 } from '../sections';
 
-const Home = () => (
+const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
@@ -34,4 +34,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Page;
